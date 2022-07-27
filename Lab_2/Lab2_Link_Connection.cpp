@@ -80,22 +80,3 @@ int main (int argc, char** argv)
   	}
 }
 
-
-
-
-
-
-
-
-
-
-
-
-//  	for(int i=0;i<10;i++){
-//    	cout<<"Show Original Address: "<< tmp<<endl;
-//    	cout<<"Show Number_Value: "<< tmp->Number_Value<<endl;;
-//    	cout<<"Show New Address: "<< tmp->Next<<endl;
-//    	tmp = tmp->Next;
-//    	cout<<"======================================="<<endl;
-//  	}
-
